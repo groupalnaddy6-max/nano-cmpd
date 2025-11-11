@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://nano-cmpd.vercel.app/sitemap.xml
